@@ -1,4 +1,5 @@
 {
+  "name": "next-style-blog",
   "private": true,
   "scripts": {
     "dev": "next dev",
