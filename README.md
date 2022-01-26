@@ -1,29 +1,47 @@
-# Next.js + Tailwind CSS Example
+# Next Style Blog
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+A Next.js default page style blog.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+<!-- [DEMO](https://next-bnb-zeta.vercel.app/) -->
 
-## Preview
+![Next Style Blog](https://res.cloudinary.com/coffmanjrp-dev/image/upload/v1643155768/coffmanjrp.io/next_style_blog_4377c692ca.png)
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+## How to start
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+1. Clone this repository.
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+```
+git clone git@github.com:coffmanjrp/next-bnb.git
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Or download the zip file.
+
+2. Run following command to install the dependencies.
+
+```
+npm install
+# or
+yarn
+```
+
+3. And you can start localhost by
+
+```
+npm run dev
+# or
+yarn dev
+```
+
+Enjoy!
+
+## Stack
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [MDX](https://mdxjs.com/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin)
+- [remark](https://remark.js.org/)
+- [rehype](https://github.com/rehypejs/rehype)
+- [next-themes](https://next-themes-example.vercel.app/)
+- [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
