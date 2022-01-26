@@ -11,7 +11,7 @@ A Next.js default page style blog.
 1. Clone this repository.
 
 ```
-git clone git@github.com:coffmanjrp/next-bnb.git
+git clone git@github.com:coffmanjrp/next-style-blog.git
 ```
 
 Or download the zip file.
